@@ -56,3 +56,10 @@ The application will wait for MongoDB to be healthy, then start up and run on po
 - **Express-Validator**: Blocks invalid requests at the networking layer before hitting business logic or database operations.
 - **Mongoose**: Ensures schema strictness in MongoDB.
 
+## API Features
+
+- User authentication
+- Co-working space management
+- Booking management
+- REST API architecture
+- Docker support
